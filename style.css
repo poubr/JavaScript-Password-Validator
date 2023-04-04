@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #F3E8FF;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 30px;
+    font-size: 1.2rem;
+}
+
+input {
+    font-size: 1.2rem;
+}
+
+.btn {
+    padding: 20px;
+    text-align: center;
+}
+
+.btn > button {
+    background-color: #FDF4F5;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    padding: 2%;
+}
+
+.validation {
+    padding-top: 20px;
+    width: 470px;
+    margin: 0 auto;
+}
